@@ -1,2 +1,8 @@
-# Marketing-Data-Analysis
-It's a A-Z marketing data analytics project solving business problem. Including tools like SQL(SSMS), Power BI and PPT for stakeholders.
+- Utilized SQL for data extraction, cleaning, and exploratory data analysis (EDA) to identify key business insights.
+- Designed and developed interactive Power BI dashboards to visualize critical metrics, including customer engagement trends, conversion rates, and marketing ROI.
+- Addressed core business challenges:
+  - Reduced Customer Engagement: Analyzed site interactions and marketing content performance, providing actionable insights to boost engagement.
+  - Decreased Conversion Rates: Investigated conversion funnels, identifying bottlenecks and recommending strategies for improvement.
+  - High Marketing Expenses: Evaluated marketing campaign efficiency, identifying cost-saving opportunities while optimizing ad spend.
+  - Customer Feedback Analysis: Conducted in-depth sentiment analysis to understand customer opinions, providing recommendations to improve product and service offerings.
+- Presented findings in a clear, actionable PowerPoint presentation for both technical and non-technical stakeholders, driving data-driven decisions.
